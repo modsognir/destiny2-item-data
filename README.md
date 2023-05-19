@@ -1,2 +1,2 @@
 # destiny2-item-data
-Augmented item data for Destiny 2
+Augmenting item data with additional information for [builders.gg](https://builders.gg)
